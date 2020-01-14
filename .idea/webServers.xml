@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d39bc05e-7d81-4d19-8932-955b17a2c5f9" name="bioinf02.fh-campuswien.ac.at" url="http://bioinf02.fh-campuswien.ac.at">
+        <fileTransfer host="bioinf02.fh-campuswien.ac.at" port="1722" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="1722" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
